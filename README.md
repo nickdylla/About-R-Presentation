@@ -3,4 +3,5 @@ This presentation was designed for our summer interns in hopes of familiarizing 
 I thoroughly enjoy communicating science and helping others learn, so I hope this helped our students and whoever comes across this!
 
 # To view the HTML presentation
+1) Copy this text: 
 https://htmlpreview.github.io/
